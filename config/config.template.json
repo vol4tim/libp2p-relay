@@ -1,0 +1,13 @@
+{
+  "privateKey": "...",
+  "listen": [
+    "/ip4/0.0.0.0/tcp/3011",
+    "/ip4/0.0.0.0/tcp/3111/ws",
+    "/ip4/0.0.0.0/udp/3211/webrtc-direct"
+  ],
+  "announce": [
+    "/ip4/99.99.99.99/tcp/3011",
+    "/ip4/99.99.99.99/tcp/3111/ws",
+    "/ip4/99.99.99.99/udp/3211/webrtc-direct"
+  ]
+}
